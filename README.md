@@ -18,7 +18,6 @@ Email : <a href="mailto:thibault@dropagence.fr">thibault@dropagence.fr</a><br>
 LinkedIn : <a href="https://www.linkedin.com/in/thibault-tripoli" target="_blank">linkedin.com/thibault-tripoli</a><br>
 Portfolio : In Progress
 
-
 <h3 align="left">Languages & Outils</h3>
 <p align="left">
 <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> 
@@ -35,3 +34,5 @@ Portfolio : In Progress
 <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> 
 
 </p>
+
+![Thibault's GitHub stats](https://github-readme-stats.vercel.app/api?username=thibault-tripoli&count_private=true)
