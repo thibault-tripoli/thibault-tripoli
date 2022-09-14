@@ -12,10 +12,12 @@ Aujourd’hui, je me sens opérationnel sur le volet Backend, des suites de la f
 
 Dans la vie comme dans le travail, je suis un être humain passionné… quand une idée me touche, je peux m’y lancer à 10 000% : code, musique, danse, sport, je suis facilement motivé pour découvrir de nouvelles choses !
 
-<h3 align="left">Ajoutez moi sur LinkedIn !</h3>
-<p align="left">
-<a href="https://linkedin.com/in/thibault-tripoli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thibault-tripoli" height="30" width="40" /></a>
-</p>
+🔗 Liens utiles ?!
+
+Email : <a href="mailto:thibault@dropagence.fr">thibault@dropagence.fr</a><br>
+LinkedIn : <a href="https://www.linkedin.com/in/thibault-tripoli" target="blank">linkedin.com/thibault-tripoli</a><br>
+Portfolio : In Progress
+
 
 <h3 align="left">Languages & Outils</h3>
 <p align="left">
