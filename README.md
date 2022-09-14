@@ -1,6 +1,6 @@
 👋 Hello, c'est Thibault !
 
-Entrepreneur de nature, j’ai soif d’apprendre, mais surtout de m’investir passionnément dans LE projet qui va changer le monde ! Consultant Digital et SEO depuis plus de 8 ans, j’ai décidé d’assumer au grand jour mon amour caché pour le code, en suivant la formation Web Development au Wagon.
+Entrepreneur de nature, j’ai soif d’apprendre, mais surtout de m’investir passionnément dans LE projet qui va changer le monde ! Consultant Digital et SEO depuis 2014, j’ai décidé d’assumer au grand jour mon amour caché pour le code, en suivant la formation Web Development au Wagon.
 
 🧑🏻‍💻 Objectif DEV !
 
