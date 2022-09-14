@@ -15,7 +15,7 @@ Dans la vie comme dans le travail, je suis un être humain passionné… quand u
 🔗 Liens utiles ?!
 
 Email : <a href="mailto:thibault@dropagence.fr">thibault@dropagence.fr</a><br>
-LinkedIn : <a href="https://www.linkedin.com/in/thibault-tripoli" target="blank">linkedin.com/thibault-tripoli</a><br>
+LinkedIn : <a href="https://www.linkedin.com/in/thibault-tripoli" target="_blank">linkedin.com/thibault-tripoli</a><br>
 Portfolio : In Progress
 
 
