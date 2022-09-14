@@ -35,4 +35,4 @@ Portfolio : In Progress
 </p>
 
 <h3 align="left">Statistiques du compte</h3>
-![Thibault's GitHub stats](https://github-readme-stats.vercel.app/api?username=thibault-tripoli&show_icons=true)
+ ![Thibault's GitHub stats](https://github-readme-stats.vercel.app/api?username=thibault-tripoli&show_icons=true)
