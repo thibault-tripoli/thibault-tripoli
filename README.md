@@ -17,6 +17,7 @@ Dans la vie comme dans le travail, je suis un être humain passionné… quand u
 Email : <a href="mailto:thibault@dropagence.fr">thibault@dropagence.fr</a><br>
 LinkedIn : <a href="https://www.linkedin.com/in/thibault-tripoli" target="_blank">linkedin.com/thibault-tripoli</a><br>
 Portfolio : In Progress
+![Thibault's GitHub stats](https://github-readme-stats.vercel.app/api?username=thibault-tripoli&show_icons=true)
 
 <h3 align="left">Languages & Outils</h3>
 <p align="left">
@@ -35,4 +36,3 @@ Portfolio : In Progress
 </p>
 
 <h3 align="left">Statistiques du compte</h3>
- ![Thibault's GitHub stats](https://github-readme-stats.vercel.app/api?username=thibault-tripoli&show_icons=true)
