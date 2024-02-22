@@ -1,12 +1,18 @@
-<h3 align="left">Développeur Backend Junior & Enthousiaste</h3>
+<h3 align="left">Développeur Junior & Enthousiaste</h3>
 
 👋 Hello, c'est Thibault !
 
-Entrepreneur de nature, j’ai soif d’apprendre, mais surtout de m’investir passionnément dans LE projet qui va changer le monde ! Consultant Digital et SEO depuis 2014, j’ai décidé d’assumer au grand jour mon amour caché pour le code, en suivant la formation Web Development au Wagon.
+Entrepreneur de nature, j’ai soif d’apprendre, mais surtout de m’investir passionnément dans LE projet qui va changer le monde !
 
-🧑🏻‍💻 Objectif DEV !
+🧑🏻‍💻 Objectif Dev !
 
-Aujourd’hui, je me sens opérationnel sur le volet Backend, des suites de la formation (Ruby on Rails), mais aussi de mon passé autodidacte dans le code (PHP/WordPress). Cependant, mon objectif métier est de me diriger progressivement vers le Full-stack/Full-Js (React, Vue, Node).
+J’ai commencé à coder il y a environ 10 ans, en total autodidacte, pour bricoler mes premiers sites internet sur WordPress (PHP/MySQL), en complément de mon activité marketing/SEO. En 2022, j’ai décidé de donner un tournant résolument technique à ma carrière en participant au bootcamp du Wagon, pour enfin devenir Développeur Web !
+
+Suite à la formation, j’ai eu la chance d’intégrer la start-up Together.do en tant que Développeur Web Junior (Ruby On Rails/Vue.js)
+
+🚀 Marketing Spirit…
+
+9 années d’expérience en tant que consultant digital et SEO, ça laisse forcément des traces… Et dans mon cas, c’est une vision assez large des enjeux marketing et business d’un projet/produit ! 
 
 🤩 Et en dehors du travail ?
 
@@ -16,7 +22,6 @@ Dans la vie comme dans le travail, je suis un être humain passionné… quand u
 
 Email : <a href="mailto:thibault@dropagence.fr">thibault@dropagence.fr</a><br>
 LinkedIn : <a href="https://www.linkedin.com/in/thibault-tripoli" target="_blank">linkedin.com/thibault-tripoli</a><br>
-Portfolio : <a href="https://thibault-tripoli.github.io/profile/" target="_blank">github.io/portfolio</a><br>
 
 <h3 align="left">Languages & Outils</h3>
 <p align="left">
